@@ -1,1 +1,1 @@
-FROM rclone/rclone:1.58.1
+FROM bitnami/rclone:1.58.1
